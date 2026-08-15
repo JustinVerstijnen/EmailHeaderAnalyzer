@@ -1,7 +1,6 @@
 # Mail Header Analyzer
 
-Static, client-side Mail Header Analyzer in the same visual style as DNS MEGAtool.
-
+Static, client-side Mail Header Analyzer for fast and effective analytics about email delivery.
 ## Features
 
 - Header input with autofocus on page load.
